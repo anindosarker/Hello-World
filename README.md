@@ -1,5 +1,3 @@
-# Hello-World
-101 of github
-just following the steps
-its starting to mess aroung
-wtf
+#About Me
+Anindo here 👋
+Currently pursuing my journey towards the vast fields of software engineering.
